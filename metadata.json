@@ -1,0 +1,5 @@
+{
+  "name": "ExamNinja AI",
+  "description": "A real-time, gamified learning platform tailored for Indian competitive exams (GATE, SSC, UPSC) using AI to generate high-quality aptitude questions.",
+  "requestFramePermissions": []
+}
